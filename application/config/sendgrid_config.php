@@ -1,0 +1,1 @@
+<?php defined("BASEPATH") OR exit("No direct script access allowed"); $config["sendgrid_api_key"] = "YOUR_SENDGRID_API_KEY_HERE"; $config["sendgrid_api_key_alt"] = "YOUR_ALTERNATE_SENDGRID_API_KEY_HERE"; ?>
